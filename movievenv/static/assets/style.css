@@ -1,0 +1,14 @@
+.card-body {
+    height: 500px;
+    overflow: scroll;
+}
+.container-fluid{
+    padding-left: 50px;
+    
+}
+.container{
+    margin-top: 50px;
+}
+#container-fluid{
+    margin-top: 50px;
+}
